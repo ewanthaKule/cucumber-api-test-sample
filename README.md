@@ -8,6 +8,8 @@ The purpose of this project is to provide a working sample of Automated API test
 * GET request with Authentication and query params
 * POST request with Authentication
 
+Enable gradlew
+`gradle wrapper`
 
 Run tests  
 `./gradlew cucumber`
